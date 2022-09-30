@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **WiDS Datathon**
 This is a Machine Learning problem where I Analyzed
 differences in building energy efficiency, by creating models to predict
