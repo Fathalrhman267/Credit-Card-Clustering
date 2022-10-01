@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-**WiDS Datathon**
-This is a Machine Learning problem where I Analyzed
-differences in building energy efficiency, by creating models to predict
-building energy consumption so as to mitigate the effects of climate change with a focus on energy
-efficiency. 
+**Credit card**
+ Analysed Credit card data That predict customer segmentation to define
 
-''' [wids-datathon.ipynb.txt](https://github.com/Fathalrhman267/WiDS-Datathon-/files/9688108/wids-datathon.ipynb.txt)
+marketing strategy.
+''' [Credit Card Clustering](https://colab.research.google.com/drive/1MjL_HGHVGEY6cHr75uX1oFksWtDG-Ym-)
  '''
